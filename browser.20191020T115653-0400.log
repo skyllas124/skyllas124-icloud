@@ -1,0 +1,20 @@
+2019-10-20 11:56:53.412 [Info] > XCGLogger writing log to: file:///var/mobile/Containers/Data/Application/9B2F0DF2-4E5E-4916-9E6E-916A1D1F0601/Library/Caches/Logs/browser.20191020T115653-0400.log
+2019-10-20 11:56:53.412 [Info] [RollingFileLogger.swift:46] newLogWithDate(_:) > Created file destination for logger with root: browser and timestamp: 2019-10-20 15:56:53 +0000
+2019-10-20 11:56:53.430 [Info] [AppDelegate.swift:156] startApplication(_:withLaunchOptions:) > startApplication end
+2019-10-20 11:56:53.697 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 11:56:53.905 [Info] [LeanplumIntegration.swift:152] start() > LeanplumIntegration - Setting up for Production
+2019-10-20 11:56:56.686 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 11:57:11.741 [Debug] [MetadataParserHelper.swift:39] tab(_:didChangeURL:) > Page contains no metadata!
+2019-10-20 11:57:13.330 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 11:57:14.006 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 11:57:14.435 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 11:57:17.764 [Debug] [MetadataParserHelper.swift:39] tab(_:didChangeURL:) > Page contains no metadata!
+2019-10-20 11:57:20.757 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 11:57:55.650 [Error] [LeanplumIntegration.swift:143] start() > LeanplumIntegration - Could not be started
+2019-10-20 11:58:34.892 [Debug] [MetadataParserHelper.swift:39] tab(_:didChangeURL:) > Page contains no metadata!
+2019-10-20 11:58:36.336 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 12:00:21.334 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 12:00:29.663 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 12:00:48.221 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 12:01:25.083 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
+2019-10-20 12:01:30.543 [Debug] [TabManagerStore.swift:106] preserveTabs(_:selectedTab:) > PreserveTabs write ok: true
